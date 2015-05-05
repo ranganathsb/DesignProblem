@@ -1,7 +1,7 @@
 ///////////////////////////////////////////////////////////////////////
 // VehicleDesign.cs - This file contains multiple classes to         //
 // implement an object-oriented design for vehicle model             //
-// ver 1.0                                                           //
+// ver 1.1                                                           //
 // Language:    C#, Xamarin Studio 5.4,.Net Framework 4.0            //
 // Platform:    Mac OSX 10.9.5, Macbook Pro Md101                    //
 // Application: Code challenge for application to Xignite            //
